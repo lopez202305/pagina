@@ -1,0 +1,120 @@
+
+
+
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+        background-image: url("1233012.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
+        .h{
+    
+
+            
+            background-repeat: no-repeat;
+            
+            }
+                
+        
+        .contenedor{
+        
+         
+        
+        height: 1000px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        }
+        .contenedor2{
+        
+         
+        
+            height: 1000px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            
+             
+            
+            }
+        .texto{
+        
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: rgb(255, 255, 255);
+        font-family: 'Nosifer', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+        
+         
+        
+        }
+        
+    
+        .contenido{
+
+            height: 280px;
+            width: 100%;
+            float: right;
+            position: absolute;
+            color: white;
+            top: 410px;
+            
+             
+            
+            }
+            
+            .imagentecno{
+    
+     
+    
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(operador\ elect.png);
+                
+                
+            
+                }
+
+                .giftecno{
+    
+     
+    
+                    background-repeat: no-repeat;
+                    
+                    float:right;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(ezgif.com-gif-maker.gif);
+                    
+                    
+                    }
