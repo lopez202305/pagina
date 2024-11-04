@@ -1,120 +1,194 @@
+/* Temas del segundo período*/
 
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: center;
+    color: rgb(2, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("fondo.jpg");
+   
 
+}
+.titulo{
+font-size: 60px;
+color: rgb(0, 0, 0);
+text-align: unset;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-
-*{
-
-    padding: 0px;
+}
+.img1{
+    height: 600px;
+    width: 1300px;
+  background-image: url( img1.webp);
+  background-repeat: no-repeat;
+  }
+  
+  
+  .img2{
+      height: 500px;
+      width: 1000px;
+    background-image: url( img2.png);
+    background-repeat: no-repeat;
+    }
     
-    margin: 0px;
+    .img3{
+      height: 2000px;
+      width: 1500px;
+    background-image: url( img3\ \(2\).png);
+    background-repeat: no-repeat;
+    }
+  
+    .img4{
+      height: 100px;
+      width: 400px;
+    background-image: url( img4.jpg);
+    background-repeat: no-repeat;
+    float: unset;
     
     }
     
+    .img5{
+      height: 700px;
+      width:700px;
+    background-image: url( img5.webp);
+    background-repeat: no-repeat;
+    float: initial;
     
+    }
+    .img6{
+      height: 700px;
+      width:1700px;
+    background-image: url( img6.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
+    }
+    .img7{
+      height: 500px;
+      width:800px;
+    background-image: url( img7.png);
+    background-repeat: no-repeat;
+    float: initial;
     
-    body{
+    }
+    .img8{
+      height: 800px;
+      width:800px;
+    background-image: url( img8.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
-        background-image: url("1233012.jpg");
-        
-        background-repeat: no-repeat;
-        
-        }
-        .h{
+    }
+    .img9{
+      height: 100px;
+      width:800px;
+    background-image: url( img9.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
-
-            
-            background-repeat: no-repeat;
-            
-            }
-                
-        
-        .contenedor{
-        
-         
-        
-        height: 1000px;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-        }
-        .contenedor2{
-        
-         
-        
-            height: 1000px;
-            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-            
-             
-            
-            }
-        .texto{
-        
-        font-size: 40px;
-        
-        text-align: justify;
-        
-        color: rgb(255, 255, 255);
-        font-family: 'Nosifer', sans-serif;
-font-family: 'Pacifico', cursive;
-font-family: 'Playfair Display', serif;
-font-family: 'Poppins', sans-serif;
-        
-         
-        
-        }
-        
+    }
+    .img10{
+      height: 500px;
+      width:800px;
+    background-image: url( img10.png);
+    background-repeat: no-repeat;
+    float: initial;
     
-        .contenido{
-
-            height: 280px;
-            width: 100%;
-            float: right;
-            position: absolute;
-            color: white;
-            top: 410px;
-            
-             
-            
-            }
-            
-            .imagentecno{
+    }
+    .img11{
+      height: 150px;
+      width:300px;
+    background-image: url( img11.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
-     
+    }
     
-                background-repeat: no-repeat;
-                
-                float:left;
-                
-                height: 200px;
-                
-                width: 260px;
-                
-                margin-left: 5px;
-                
-                margin-right:5px;
-                
-                background-image: url(operador\ elect.png);
-                
-                
-            
-                }
-
-                .giftecno{
+    .img12{
+      height: 150px;
+      width:800px;
+    background-image: url( img12.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
-     
+    }
+    .img13{
+      height: 500px;
+      width:1600px;
+    background-image: url( img13.jpg);
+    background-repeat: no-repeat;
+    float: initial;
     
-                    background-repeat: no-repeat;
-                    
-                    float:right;
-                    
-                    height: 200px;
-                    
-                    width: 260px;
-                    
-                    margin-left: 5px;
-                    
-                    margin-right:5px;
-                    
-                    background-image: url(ezgif.com-gif-maker.gif);
-                    
-                    
-                    }
+    }
+    .img14{
+      height: 500px;
+      width:1000px;
+    background-image: url( img14.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img15{
+      height: 200px;
+      width:800px;
+    background-image: url( img15.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img16{
+      height: 200px;
+      width:500px;
+    background-image: url( img16.png);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img17{
+      height: 500px;
+      width:800px;
+    background-image: url( img17.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img18{
+      height: 200px;
+      width:400px;
+    background-image: url( img18.png);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }  
+      .img19{
+      height: 500px;
+      width:800px;
+    background-image: url( img19.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img20{
+      height: 500px;
+      width:2000px;
+    background-image: url( img20.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
+    .img21{
+      height: 1000px;
+      width:2000px;
+    background-image: url( img21.jpg);
+    background-repeat: no-repeat;
+    float: initial;
+    
+    }
